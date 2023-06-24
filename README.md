@@ -1,1 +1,1 @@
-# LeetCode Blind 75
+- Solving leetcode problems to improve problem-solving skills, algorithmic thinking, and familiarity with common data structures and algorithms.
